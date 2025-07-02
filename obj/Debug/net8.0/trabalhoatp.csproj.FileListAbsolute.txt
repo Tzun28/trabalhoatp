@@ -1,0 +1,5 @@
+/workspaces/trabalhoatp/obj/Debug/net8.0/trabalhoatp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/trabalhoatp/obj/Debug/net8.0/trabalhoatp.AssemblyInfoInputs.cache
+/workspaces/trabalhoatp/obj/Debug/net8.0/trabalhoatp.AssemblyInfo.cs
+/workspaces/trabalhoatp/obj/Debug/net8.0/trabalhoatp.csproj.CoreCompileInputs.cache
+/workspaces/trabalhoatp/obj/Debug/net8.0/trabalhoatp.sourcelink.json

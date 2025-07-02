@@ -1,0 +1,5 @@
+01| Ibirité| 50
+02| Contagem| 50
+03| Belo Horizonte| 50
+04| Ladainha| 50
+05| Novo Cruzeiro| 50

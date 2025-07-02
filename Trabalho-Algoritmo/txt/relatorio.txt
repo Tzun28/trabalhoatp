@@ -1,0 +1,20 @@
+Voo 01 - Destino: Ibirité
+Total de poltronas reservadas: 2
+Total de poltronas disponíveis: 48
+
+Voo 02 - Destino: Contagem
+Total de poltronas reservadas: 0
+Total de poltronas disponíveis: 50
+
+Voo 03 - Destino: Belo Horizonte
+Total de poltronas reservadas: 0
+Total de poltronas disponíveis: 50
+
+Voo 04 - Destino: Ladainha
+Total de poltronas reservadas: 2
+Total de poltronas disponíveis: 48
+
+Voo 05 - Destino: Novo Cruzeiro
+Total de poltronas reservadas: 1
+Total de poltronas disponíveis: 49
+
